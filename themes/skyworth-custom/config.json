@@ -1,0 +1,13 @@
+{
+  "dock_apps": [
+    "com.google.android.youtube.tv",
+    "com.community.mbox.tv",
+    "com.nathnetwork.qdzxcx",
+    "com.netflix.ninja"
+  ],
+  "columns": 5,
+  "rows_below_dock": 0,
+  "background_color": "#070A14",
+  "wallpaper": true,
+  "places": false
+}
